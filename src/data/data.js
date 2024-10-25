@@ -76,6 +76,10 @@ import MamatkulovaGulnazSuccses from '../assets/Green-card 2026 Photo/Mamatkulov
 import MamatkulovaGulnazFilling1 from '../assets/Green-card 2026 Photo/MamatkulovaGulnaz/Filling1.png';
 import ShermanovBelekSuccses from '../assets/Green-card 2026 Photo/ShermanovBelek/ShermanovBelekSuccses.png';
 import ShermanovBelekFilling1 from '../assets/Green-card 2026 Photo/ShermanovBelek/Filling1.png';
+import MizambekovBaktyiarSuccses from '../assets/Green-card 2026 Photo/MizambekovBaktyiar/MizambekovBaktyiarSuccses.png';
+import MizambekovBaktyiarFilling1 from '../assets/Green-card 2026 Photo/MizambekovBaktyiar/Filling1.png';
+import BiimamatKyzyTurgunbuSuccses from '../assets/Green-card 2026 Photo/BiimamatKyzyTurgunbu/BiimamatKyzyTurgunbuSuccses.png';
+import BiimamatKyzyTurgunbuFilling1 from '../assets/Green-card 2026 Photo/BiimamatKyzyTurgunbu/Filling1.png';
 
 export const GreenCardData = [
   {
@@ -346,6 +350,22 @@ export const GreenCardData = [
     fillingImgSecond: '',
     name: 'Shermanov Belek',
     number: '+996 777 365 555 Пороль gmail: Shermanovbelek7777',
+  },
+  {
+    id: 35,
+    succsesImg: MizambekovBaktyiarSuccses,
+    fillingImg: MizambekovBaktyiarFilling1,
+    fillingImgSecond: '',
+    name: 'Mizambekov Baktyiar',
+    number: '+996 776 767 644',
+  },
+  {
+    id: 36,
+    succsesImg: BiimamatKyzyTurgunbuSuccses,
+    fillingImg: BiimamatKyzyTurgunbuFilling1,
+    fillingImgSecond: '',
+    name: 'BiimamatKyzy Turgunbu',
+    number: '+996 778 040 446',
   },
 ];
 
