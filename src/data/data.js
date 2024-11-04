@@ -164,6 +164,86 @@ import GulzatSakeevaSuccses from '../assets/Green-card 2026 Photo/GulzatSakeeva/
 import GulzatSakeevaFilling1 from '../assets/Green-card 2026 Photo/GulzatSakeeva/Filling1.png';
 import AkimbaevaAinazikSuccses from '../assets/Green-card 2026 Photo/AkimbaevaAinazik/AkimbaevaAinazikSuccses.png';
 import AkimbaevaAinazikFilling1 from '../assets/Green-card 2026 Photo/AkimbaevaAinazik/Filling1.png';
+import SaidakhmatovAlmazbekSuccses from '../assets/Green-card 2026 Photo/SaidakhmatovAlmazbek/SaidakhmatovAlmazbekSuccses.png';
+import SaidakhmatovAlmazbekFilling1 from '../assets/Green-card 2026 Photo/SaidakhmatovAlmazbek/Filling1.png';
+import DavlatovaSaidaSuccses from '../assets/Green-card 2026 Photo/DavlatovaSaida/DavlatovaSaidaSuccses.png';
+import DavlatovaSaidaFilling1 from '../assets/Green-card 2026 Photo/DavlatovaSaida/Filling1.png';
+import SaidakhmatovTolkunbekSuccses from '../assets/Green-card 2026 Photo/SaidakhmatovTolkunbek/SaidakhmatovTolkunbekSuccses.png';
+import SaidakhmatovTolkunbekFilling1 from '../assets/Green-card 2026 Photo/SaidakhmatovTolkunbek/Filling1.png';
+import GadaevaTolgonaiSuccses from '../assets/Green-card 2026 Photo/GadaevaTolgonai/GadaevaTolgonaiSuccses.png';
+import GadaevaTolgonaiFilling1 from '../assets/Green-card 2026 Photo/GadaevaTolgonai/Filling1.png';
+import DzhanbotoevMuratbekSuccses from '../assets/Green-card 2026 Photo/DzhanbotoevMuratbek/DzhanbotoevMuratbekSuccses.png';
+import DzhanbotoevMuratbekFilling1 from '../assets/Green-card 2026 Photo/DzhanbotoevMuratbek/Filling1.png';
+import TazhibaiKyzyBuurahimaSuccses from '../assets/Green-card 2026 Photo/TazhibaiKyzyBuurahima/TazhibaiKyzyBuurahimaSuccses.png';
+import TazhibaiKyzyBuurahimaFilling1 from '../assets/Green-card 2026 Photo/TazhibaiKyzyBuurahima/Filling1.png';
+import AbdilashimUuluAskarbekSuccses from '../assets/Green-card 2026 Photo/AbdilashimUuluAskarbek/AbdilashimUuluAskarbekSuccses.png';
+import AbdilashimUuluAskarbekFilling1 from '../assets/Green-card 2026 Photo/AbdilashimUuluAskarbek/Filling1.png';
+import AlidinUuluMaisalbekSuccses from '../assets/Green-card 2026 Photo/AlidinUuluMaisalbek/AlidinUuluMaisalbekSuccses.png';
+import AlidinUuluMaisalbekFilling1 from '../assets/Green-card 2026 Photo/AlidinUuluMaisalbek/Filling1.png';
+import BekmyrzaKyzyNargizaSuccses from '../assets/Green-card 2026 Photo/BekmyrzaKyzyNargiza/BekmyrzaKyzyNargizaSuccses.png';
+import BekmyrzaKyzyNargizaFilling1 from '../assets/Green-card 2026 Photo/BekmyrzaKyzyNargiza/Filling1.png';
+import PirimkulovAkimSuccses from '../assets/Green-card 2026 Photo/PirimkulovAkim/PirimkulovAkimSuccses.png';
+import PirimkulovAkimFilling1 from '../assets/Green-card 2026 Photo/PirimkulovAkim/Filling1.png';
+import OmorovaNurperiSuccses from '../assets/Green-card 2026 Photo/OmorovaNurperi/OmorovaNurperiSuccses.png';
+import OmorovaNurperiFilling1 from '../assets/Green-card 2026 Photo/OmorovaNurperi/Filling1.png';
+import MamurkulovTaalaiSuccses from '../assets/Green-card 2026 Photo/MamurkulovTaalai/MamurkulovTaalaiSuccses.png';
+import MamurkulovTaalaiFilling1 from '../assets/Green-card 2026 Photo/MamurkulovTaalai/Filling1.png';
+import TurdubekovaElnuraSuccses from '../assets/Green-card 2026 Photo/TurdubekovaElnura/TurdubekovaElnuraSuccses.png';
+import TurdubekovaElnuraFilling1 from '../assets/Green-card 2026 Photo/TurdubekovaElnura/Filling1.png';
+import NurlanUuluBekmamatSuccses from '../assets/Green-card 2026 Photo/NurlanUuluBekmamat/NurlanUuluBekmamatSuccses.png';
+import NurlanUuluBekmamatFilling1 from '../assets/Green-card 2026 Photo/NurlanUuluBekmamat/Filling1.png';
+import NazirovKairatbekSuccses from '../assets/Green-card 2026 Photo/NazirovKairatbek/NazirovKairatbekSuccses.png';
+import NazirovKairatbekFilling1 from '../assets/Green-card 2026 Photo/NazirovKairatbek/Filling1.png';
+import NiazalievTugolbaiSuccses from '../assets/Green-card 2026 Photo/NiazalievTugolbai/NiazalievTugolbaiSuccses.png';
+import NiazalievTugolbaiFilling1 from '../assets/Green-card 2026 Photo/NiazalievTugolbai/Filling1.png';
+import SuiunalievaNuruilaSuccses from '../assets/Green-card 2026 Photo/SuiunalievaNuruila/SuiunalievaNuruilaSuccses.png';
+import SuiunalievaNuruilaFilling1 from '../assets/Green-card 2026 Photo/SuiunalievaNuruila/Filling1.png';
+import KamalovErkinaliSuccses from '../assets/Green-card 2026 Photo/KamalovErkinali/KamalovErkinaliSuccses.png';
+import KamalovErkinaliFilling1 from '../assets/Green-card 2026 Photo/KamalovErkinali/Filling1.png';
+import MirzakulovaMinovarhonSuccses from '../assets/Green-card 2026 Photo/MirzakulovaMinovarhon/MirzakulovaMinovarhonSuccses.png';
+import MirzakulovaMinovarhonFilling1 from '../assets/Green-card 2026 Photo/MirzakulovaMinovarhon/Filling1.png';
+import SaiipovAzizullohSuccses from '../assets/Green-card 2026 Photo/SaiipovAzizulloh/SaiipovAzizullohSuccses.png';
+import SaiipovAzizullohFilling1 from '../assets/Green-card 2026 Photo/SaiipovAzizulloh/Filling1.png';
+import EchankulovZalkarbekSuccses from '../assets/Green-card 2026 Photo/EchankulovZalkarbek/EchankulovZalkarbekSuccses.png';
+import EchankulovZalkarbekFilling1 from '../assets/Green-card 2026 Photo/EchankulovZalkarbek/Filling1.png';
+import BaianovaAizatSuccses from '../assets/Green-card 2026 Photo/BaianovaAizat/BaianovaAizatSuccses.png';
+import BaianovaAizatFilling1 from '../assets/Green-card 2026 Photo/BaianovaAizat/Filling1.png';
+import AdiletKochkonbaiSuccses from '../assets/Green-card 2026 Photo/AdiletKochkonbai/AdiletKochkonbaiSuccses.png';
+import AdiletKochkonbaiFilling1 from '../assets/Green-card 2026 Photo/AdiletKochkonbai/Filling1.png';
+import UrmatKyzyMirgulSuccses from '../assets/Green-card 2026 Photo/UrmatKyzyMirgul/UrmatKyzyMirgulSuccses.png';
+import UrmatKyzyMirgulFilling1 from '../assets/Green-card 2026 Photo/UrmatKyzyMirgul/Filling1.png';
+import DzhetigenovAskarSuccses from '../assets/Green-card 2026 Photo/DzhetigenovAskar/DzhetigenovAskarSuccses.png';
+import DzhetigenovAskarFilling1 from '../assets/Green-card 2026 Photo/DzhetigenovAskar/Filling1.png';
+import NazarovaMalikaSuccses from '../assets/Green-card 2026 Photo/NazarovaMalika/NazarovaMalikaSuccses.png';
+import NazarovaMalikaFilling1 from '../assets/Green-card 2026 Photo/NazarovaMalika/Filling1.png';
+import SatybaldievAnvarSuccses from '../assets/Green-card 2026 Photo/SatybaldievAnvar/SatybaldievAnvarSuccses.png';
+import SatybaldievAnvarFilling1 from '../assets/Green-card 2026 Photo/SatybaldievAnvar/Filling1.png';
+import SaparovaAkylaySuccses from '../assets/Green-card 2026 Photo/SaparovaAkylay/SaparovaAkylaySuccses.png';
+import SaparovaAkylayFilling1 from '../assets/Green-card 2026 Photo/SaparovaAkylay/Filling1.png';
+import NusapaevArzymatSuccses from '../assets/Green-card 2026 Photo/NusapaevArzymat/NusapaevArzymatSuccses.png';
+import NusapaevArzymatFilling1 from '../assets/Green-card 2026 Photo/NusapaevArzymat/Filling1.png';
+import YntymakovDastanSuccses from '../assets/Green-card 2026 Photo/YntymakovDastan/YntymakovDastanSuccses.png';
+import YntymakovDastanFillint1 from '../assets/Green-card 2026 Photo/YntymakovDastan/Fillint1.png';
+import SultanovNasipbekSuccses from '../assets/Green-card 2026 Photo/SultanovNasipbek/SultanovNasipbekSuccses.png';
+import SultanovNasipbekFilling1 from '../assets/Green-card 2026 Photo/SultanovNasipbek/Filling1.png';
+import UsubalievaNargizaSuccses from '../assets/Green-card 2026 Photo/UsubalievaNargiza/UsubalievaNargizaSuccses.png';
+import UsubalievaNargizaFilling1 from '../assets/Green-card 2026 Photo/UsubalievaNargiza/Filling1.png';
+import JusubalievKalusbekSuccses from '../assets/Green-card 2026 Photo/JusubalievKalusbek/JusubalievKalusbekSuccses.png';
+import JusubalievKalusbekFilling1 from '../assets/Green-card 2026 Photo/JusubalievKalusbek/Filling1.png';
+import ArunovaGulnuraSuccses from '../assets/Green-card 2026 Photo/ArunovaGulnura/ArunovaGulnuraSuccses.png';
+import ArunovaGulnuraFilling1 from '../assets/Green-card 2026 Photo/ArunovaGulnura/Filling1.png';
+import JumalievErnisSuccses from '../assets/Green-card 2026 Photo/JumalievErnis/JumalievErnisSuccses.png';
+import JumalievErnisFilling1 from '../assets/Green-card 2026 Photo/JumalievErnis/Filling1.png';
+import AbdrasulovaNurgulSuccses from '../assets/Green-card 2026 Photo/AbdrasulovaNurgul/AbdrasulovaNurgulSuccses.png';
+import AbdrasulovaNurgulFilling1 from '../assets/Green-card 2026 Photo/AbdrasulovaNurgul/Filling1.png';
+import BashirovaManzurahanSuccses from '../assets/Green-card 2026 Photo/BashirovaManzurahan/BashirovaManzurahanSuccses.png';
+import BashirovaManzurahanFilling1 from '../assets/Green-card 2026 Photo/BashirovaManzurahan/Filling1.png';
+import ArzykulovGiyazidinSuccses from '../assets/Green-card 2026 Photo/ArzykulovGiyazidin/ArzykulovGiyazidinSuccses.png';
+import ArzykulovGiyazidinFilling1 from '../assets/Green-card 2026 Photo/ArzykulovGiyazidin/Filling1.png';
+import AbdyjaparovaAidaiSuccses from '../assets/Green-card 2026 Photo/AbdyjaparovaAidai/AbdyjaparovaAidaiSuccses.png';
+import AbdyjaparovaAidaiFilling1 from '../assets/Green-card 2026 Photo/AbdyjaparovaAidai/Filling1.png';
+import AlymkojoevOmurbekSuccses from '../assets/Green-card 2026 Photo/AlymkojoevOmurbek/AlymkojoevOmurbekSuccses.png';
+import AlymkojoevOmurbekFilling1 from '../assets/Green-card 2026 Photo/AlymkojoevOmurbek/Filling1.png';
 
 export const GreenCardData = [
   {
@@ -787,14 +867,326 @@ export const GreenCardData = [
     name: 'Akimbaeva Ainazik',
     number: '+996 704 516 135',
   },
+  {
+    id: 79,
+    succsesImg: SaidakhmatovAlmazbekSuccses,
+    fillingImg: SaidakhmatovAlmazbekFilling1,
+    fillingImgSecond: '',
+    name: 'Saidakhmatov Almazbek',
+    number: '+996 709 231 475',
+  },
+  {
+    id: 80,
+    succsesImg: DavlatovaSaidaSuccses,
+    fillingImg: DavlatovaSaidaFilling1,
+    fillingImgSecond: '',
+    name: 'Davlatova Saida',
+    number: '',
+  },
+  {
+    id: 81,
+    succsesImg: SaidakhmatovTolkunbekSuccses,
+    fillingImg: SaidakhmatovTolkunbekFilling1,
+    fillingImgSecond: '',
+    name: 'Saidakhmatov Tolkunbek',
+    number: '+996 505 486 547',
+  },
+  {
+    id: 82,
+    succsesImg: GadaevaTolgonaiSuccses,
+    fillingImg: GadaevaTolgonaiFilling1,
+    fillingImgSecond: '',
+    name: 'Gadaeva Tolgonai',
+    number: '+996 709 231 483',
+  },
+  {
+    id: 83,
+    succsesImg: DzhanbotoevMuratbekSuccses,
+    fillingImg: DzhanbotoevMuratbekFilling1,
+    fillingImgSecond: '',
+    name: 'Dzhanbotoev Muratbek',
+    number: '+996 221 143 007',
+  },
+  {
+    id: 84,
+    succsesImg: TazhibaiKyzyBuurahimaSuccses,
+    fillingImg: TazhibaiKyzyBuurahimaFilling1,
+    fillingImgSecond: '',
+    name: 'TazhibaiKyzy Buurahima',
+    number: '+996 224 646 451',
+  },
+  {
+    id: 85,
+    succsesImg: AbdilashimUuluAskarbekSuccses,
+    fillingImg: AbdilashimUuluAskarbekFilling1,
+    fillingImgSecond: '',
+    name: 'AbdilashimUulu Askarbek',
+    number: '+996 999 509 015',
+  },
+  {
+    id: 86,
+    succsesImg: AlidinUuluMaisalbekSuccses,
+    fillingImg: AlidinUuluMaisalbekFilling1,
+    fillingImgSecond: '',
+    name: 'AlidinUulu Maisalbek',
+    number: '+996 505 477 979',
+  },
+  {
+    id: 87,
+    succsesImg: BekmyrzaKyzyNargizaSuccses,
+    fillingImg: BekmyrzaKyzyNargizaFilling1,
+    fillingImgSecond: '',
+    name: 'BekmyrzaKyzy Nargiza',
+    number: '+996 507 322 161',
+  },
+  {
+    id: 88,
+    succsesImg: PirimkulovAkimSuccses,
+    fillingImg: PirimkulovAkimFilling1,
+    fillingImgSecond: '',
+    name: 'Pirimkulov Akim',
+    number: '+996 553 149 490',
+  },
+  {
+    id: 89,
+    succsesImg: OmorovaNurperiSuccses,
+    fillingImg: OmorovaNurperiFilling1,
+    fillingImgSecond: '',
+    name: 'Omorova Nurperi',
+    number: '+996 553 766 623',
+  },
+  {
+    id: 90,
+    succsesImg: MamurkulovTaalaiSuccses,
+    fillingImg: MamurkulovTaalaiFilling1,
+    fillingImgSecond: '',
+    name: 'Mamurkulov Taalai',
+    number: '+996 705 418 836',
+  },
+  {
+    id: 91,
+    succsesImg: TurdubekovaElnuraSuccses,
+    fillingImg: TurdubekovaElnuraFilling1,
+    fillingImgSecond: '',
+    name: 'Turdubekova Elnura',
+    number: '+996 505 052 563',
+  },
+  {
+    id: 92,
+    succsesImg: NurlanUuluBekmamatSuccses,
+    fillingImg: NurlanUuluBekmamatFilling1,
+    fillingImgSecond: '',
+    name: 'NurlanUulu Bekmamat',
+    number: '+996 505 949 995',
+  },
+  {
+    id: 93,
+    succsesImg: NazirovKairatbekSuccses,
+    fillingImg: NazirovKairatbekFilling1,
+    fillingImgSecond: '',
+    name: 'Nazirov Kairatbek',
+    number: '+996 706 141 183',
+  },
+  {
+    id: 94,
+    succsesImg: NiazalievTugolbaiSuccses,
+    fillingImg: NiazalievTugolbaiFilling1,
+    fillingImgSecond: '',
+    name: 'Niazaliev Tugolbai',
+    number: '+996 505 585 400',
+  },
+  {
+    id: 95,
+    succsesImg: SuiunalievaNuruilaSuccses,
+    fillingImg: SuiunalievaNuruilaFilling1,
+    fillingImgSecond: '',
+    name: 'Suiunalieva Nuruila',
+    number: '+996 708 491 090',
+  },
+  {
+    id: 96,
+    succsesImg: KamalovErkinaliSuccses,
+    fillingImg: KamalovErkinaliFilling1,
+    fillingImgSecond: '',
+    name: 'Kamalov Erkinali',
+    number: '+996 771 808 086',
+  },
+  {
+    id: 97,
+    succsesImg: MirzakulovaMinovarhonSuccses,
+    fillingImg: MirzakulovaMinovarhonFilling1,
+    fillingImgSecond: '',
+    name: 'Mirzakulova Minovarhon',
+    number: '+996 771 808 086',
+  },
+  {
+    id: 98,
+    succsesImg: SaiipovAzizullohSuccses,
+    fillingImg: SaiipovAzizullohFilling1,
+    fillingImgSecond: '',
+    name: 'Saiipov Azizulloh',
+    number: '+996 554 888 892',
+  },
+  {
+    id: 99,
+    succsesImg: EchankulovZalkarbekSuccses,
+    fillingImg: EchankulovZalkarbekFilling1,
+    fillingImgSecond: '',
+    name: 'Echankulov Zalkarbek',
+    number: '+996 226 140 400',
+  },
+  {
+    id: 100,
+    succsesImg: BaianovaAizatSuccses,
+    fillingImg: BaianovaAizatFilling1,
+    fillingImgSecond: '',
+    name: 'Baianova Aizat',
+    number: '+996 555 055 975',
+  },
+  {
+    id: 101,
+    succsesImg: AdiletKochkonbaiSuccses,
+    fillingImg: AdiletKochkonbaiFilling1,
+    fillingImgSecond: '',
+    name: 'Adilet Kochkonbai',
+    number: '+996 504 442 244',
+  },
+  {
+    id: 102,
+    succsesImg: UrmatKyzyMirgulSuccses,
+    fillingImg: UrmatKyzyMirgulFilling1,
+    fillingImgSecond: '',
+    name: 'UrmatKyzy Mirgul',
+    number: '+996 703 759 405',
+  },
+  {
+    id: 103,
+    succsesImg: DzhetigenovAskarSuccses,
+    fillingImg: DzhetigenovAskarFilling1,
+    fillingImgSecond: '',
+    name: 'Dzhetigenov Askar',
+    number: '+996 709 899 835',
+  },
+  {
+    id: 104,
+    succsesImg: NazarovaMalikaSuccses,
+    fillingImg: NazarovaMalikaFilling1,
+    fillingImgSecond: '',
+    name: 'Nazarova Malika',
+    number: '+996 705 757 900',
+  },
+  {
+    id: 105,
+    succsesImg: SatybaldievAnvarSuccses,
+    fillingImg: SatybaldievAnvarFilling1,
+    fillingImgSecond: '',
+    name: 'Satybaldiev Anvar',
+    number: '+996 773 856 281',
+  },
+  {
+    id: 106,
+    succsesImg: SaparovaAkylaySuccses,
+    fillingImg: SaparovaAkylayFilling1,
+    fillingImgSecond: '',
+    name: 'Saparova Akylay',
+    number: '+996 505 961 606',
+  },
+  {
+    id: 107,
+    succsesImg: NusapaevArzymatSuccses,
+    fillingImg: NusapaevArzymatFilling1,
+    fillingImgSecond: '',
+    name: 'Nusapaev Arzymat',
+    number: '+82 10-2415-9805',
+  },
+  {
+    id: 108,
+    succsesImg: YntymakovDastanSuccses,
+    fillingImg: YntymakovDastanFillint1,
+    fillingImgSecond: '',
+    name: 'Yntymakov Dastan',
+    number: 'WhatsApp: +82 10-2415-9805 number: +996 509 200 545',
+  },
+  {
+    id: 109,
+    succsesImg: SultanovNasipbekSuccses,
+    fillingImg: SultanovNasipbekFilling1,
+    fillingImgSecond: '',
+    name: 'Sultanov Nasipbek',
+    number: '+996 778 458 114',
+  },
+  {
+    id: 110,
+    succsesImg: UsubalievaNargizaSuccses,
+    fillingImg: UsubalievaNargizaFilling1,
+    fillingImgSecond: '',
+    name: 'Usubalieva Nargiza',
+    number: '+996 778 107 941',
+  },
+  {
+    id: 111,
+    succsesImg: JusubalievKalusbekSuccses,
+    fillingImg: JusubalievKalusbekFilling1,
+    fillingImgSecond: '',
+    name: 'Jusubaliev Kalusbek',
+    number: '+996 700 083 303',
+  },
+  {
+    id: 112,
+    succsesImg: ArunovaGulnuraSuccses,
+    fillingImg: ArunovaGulnuraFilling1,
+    fillingImgSecond: '',
+    name: 'Arunova Gulnura',
+    number: '+996 706 411 995',
+  },
+  {
+    id: 113,
+    succsesImg: JumalievErnisSuccses,
+    fillingImg: JumalievErnisFilling1,
+    fillingImgSecond: '',
+    name: 'Jumaliev Ernis',
+    number: '+996 709 707 107',
+  },
+  {
+    id: 114,
+    succsesImg: AbdrasulovaNurgulSuccses,
+    fillingImg: AbdrasulovaNurgulFilling1,
+    fillingImgSecond: '',
+    name: 'Abdrasulova Nurgul',
+    number: '+996 703 457 117',
+  },
+  {
+    id: 115,
+    succsesImg: BashirovaManzurahanSuccses,
+    fillingImg: BashirovaManzurahanFilling1,
+    fillingImgSecond: '',
+    name: 'Bashirova Manzurahan',
+    number: '+996 703 387 387',
+  },
+  {
+    id: 116,
+    succsesImg: ArzykulovGiyazidinSuccses,
+    fillingImg: ArzykulovGiyazidinFilling1,
+    fillingImgSecond: '',
+    name: 'Arzykulov Giyazidin',
+    number: '+996 700 860 000',
+  },
+  {
+    id: 117,
+    succsesImg: AbdyjaparovaAidaiSuccses,
+    fillingImg: AbdyjaparovaAidaiFilling1,
+    fillingImgSecond: '',
+    name: 'Abdyjaparova Aidai',
+    number: '+996 707 476 798',
+  },
+  {
+    id: 118,
+    succsesImg: AlymkojoevOmurbekSuccses,
+    fillingImg: AlymkojoevOmurbekFilling1,
+    fillingImgSecond: '',
+    name: 'Alymkojoev Omurbek',
+    number: '+996 507 858 514',
+  },
 ];
 
-// {
-//   id: 4,
-//   succsesImg: AbdurakhmanovAbdykadyrSuccses,
-//   fillingImg: AbdurakhmanovAbdykadyrFilling,
-//   fillingImgSecond:
-//   fillingImgThird:
-//   name: 'Abdurakhmanov Abdykadyr',
-//   number: '+996 776 193 737',
-// },
+
